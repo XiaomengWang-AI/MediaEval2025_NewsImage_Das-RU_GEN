@@ -1,0 +1,1 @@
+# MediaEval2025_NewsImage_Das-RU_GEN
